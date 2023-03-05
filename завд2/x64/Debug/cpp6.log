@@ -1,0 +1,3 @@
+﻿  cpp6.cpp
+D:\proj.cpp\cpp6\cpp6.cpp(61,91): warning C4305: аргумент: усечение из "double" в "float"
+  cpp6.vcxproj -> D:\proj.cpp\cpp6\x64\Debug\cpp6.exe
